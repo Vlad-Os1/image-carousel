@@ -1,2 +1,2 @@
 # image-carousel
-its a mobile version so expect low image resolution on wide screens
+This is a mobile version, so expect lower image resolution on larger screens
